@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queebohka.slapdembooks.wtf/sitemap.xml
